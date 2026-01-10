@@ -1,0 +1,10 @@
+{
+    "Hello!": "¡Hola!",
+    "You are receiving this email because we received a password reset request for your account.": "Estás recibiendo este correo porque recibimos una solicitud para restablecer la contraseña de tu cuenta.",
+    "Reset Password": "Restablecer Contraseña",
+    "This password reset link will expire in :count minutes.": "Este enlace caducará en :count minutos.",
+    "If you did not request a password reset, no further action is required.": "Si no solicitaste restablecer tu contraseña, ignora este mensaje.",
+    "Regards": "Saludos",
+    "If you're having trouble clicking the \"Reset Password\" button, copy and paste the URL below into your web browser:": "Si tienes problemas para hacer clic en el botón \"Restablecer Contraseña\", copia y pega la siguiente URL en tu navegador:",
+    "All rights reserved.": "Todos los derechos reservados."
+}
