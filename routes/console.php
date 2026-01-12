@@ -10,3 +10,4 @@ Artisan::command('inspire', function () {
 use Illuminate\Support\Facades\Schedule;
 
 Schedule::command('notes:send-reminders')->everyMinute();
+Schedule::command('notes:delete-completed')->daily();
